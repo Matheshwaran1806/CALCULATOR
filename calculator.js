@@ -4,7 +4,7 @@ calci.setAttribute("class","calc")
 calci.innerHTML=`
     <div class="back">
     <div class="main">
-    <video src="./img/calci video.mp4" muted autoplay loop>
+    <video src="./calci video.mp4" muted autoplay loop>
 	</video>
     </div>
         <div class="calculators">
