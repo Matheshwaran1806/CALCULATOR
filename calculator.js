@@ -9,7 +9,7 @@ calci.innerHTML=`
     </div>
         <div class="calculators">
             <div class="box">
-            <input type="number" id="box"></input>
+            <input type="text" id="box"></input>
         </div>
         <div class="row">
             <button onclick="cler()">clr</button>
